@@ -1,0 +1,13 @@
+name: frames
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - pandas
+  - pip
+  - numpy
+  - tqdm
+  - pip:
+    - opencv-python==4.5.3.56
+prefix: /home/weixun/anaconda3/envs/frames
